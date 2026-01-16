@@ -13,7 +13,7 @@ const HeroSection = () => {
             <div
               className="flex min-h-112.5 sm:min-h-125 lg:min-h-150 flex-col justify-center items-start px-6 sm:px-10 lg:px-10 py-12 relative bg-cover bg-center"
               style={{
-                backgroundImage: `linear-gradient(to right, hsl(215 28% 15% / 0.95) 0%, hsl(215 28% 15% / 0.7) 50%, hsl(215 28% 15% / 0.4) 100%), url("https://lh3.googleusercontent.com/aida-public/AB6AXuAgjne0Tve0V04F1AP2xaOLLt6najh687bBs5RX0scpczUAd2qu70PQoMj4pJfYcAlVQY5m0Crg61j_stfGpW9j7QQRDWy7O2zMBTrpXrOjcFnLLYVYMjpap0rlt-hKvnfL5tFgvucnAxrNxzmTacse5BsV-q2SyN6kU-50NgufZ5pZobeJDsmecm1di2I0ewpTbWpEVKpG1iwBqwQveRk_lmsRPbfA8Bpg05FCwgG1GT1oJLKsR4lpN-3SgG-5065FMawp32T-u9A")`,
+                backgroundImage: `linear-gradient(to right, hsl(210 67% 33% / 0.95) 0%, hsl(210 67% 33% / 0.7) 50%, hsl(210 67% 33% / 0.4) 100%), url("https://lh3.googleusercontent.com/aida-public/AB6AXuAgjne0Tve0V04F1AP2xaOLLt6najh687bBs5RX0scpczUAd2qu70PQoMj4pJfYcAlVQY5m0Crg61j_stfGpW9j7QQRDWy7O2zMBTrpXrOjcFnLLYVYMjpap0rlt-hKvnfL5tFgvucnAxrNxzmTacse5BsV-q2SyN6kU-50NgufZ5pZobeJDsmecm1di2I0ewpTbWpEVKpG1iwBqwQveRk_lmsRPbfA8Bpg05FCwgG1GT1oJLKsR4lpN-3SgG-5065FMawp32T-u9A")`,
               }}
             >
               <motion.div

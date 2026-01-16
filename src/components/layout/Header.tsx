@@ -40,6 +40,7 @@ const Header = () => {
         <div className="section-container">
           <div className="flex items-center justify-between h-16 lg:h-20">
             <div className="flex items-center gap-2 sm:gap-3">
+              <Logo />
               <span className="text-lg sm:text-xl font-bold tracking-tight text-primary">
                 TBS Solutions
               </span>
